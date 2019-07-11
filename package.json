@@ -1,0 +1,23 @@
+{
+  "name": "parse-client",
+  "version": "1.0.0",
+  "description": "Parse Client Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAVLpl/parse-client.git"
+  },
+  "keywords": [
+    "Parse",
+    "Client"
+  ],
+  "author": "jared.qin@gavl.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GAVLpl/parse-client/issues"
+  },
+  "homepage": "https://github.com/GAVLpl/parse-client#readme"
+}
