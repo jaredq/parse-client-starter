@@ -6,10 +6,7 @@
   "scripts": {
     "test": "npm test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GAVLpl/parse-client.git"
-  },
+  "repository": "git+https://github.com/GAVLpl/parse-client.git",
   "keywords": [
     "Parse",
     "Client"
@@ -19,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/GAVLpl/parse-client/issues"
   },
-  "homepage": "https://github.com/GAVLpl/parse-client#readme"
+  "homepage": "https://github.com/GAVLpl/parse-client#readme",
+  "dependencies": {
+    "parse": "^2.4.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
 }
